@@ -208,6 +208,45 @@ namespace Week1VariablesOperatorsExpressions
             ////Calculation:
             //double totalDonation = (quarters * .25 + dollar1 * 1 + dollar5 * 5 + dollar10 * 10 + dollar20 * 20 + dollar50 * 50 + dollar100 * 100);
             //Console.WriteLine("Total Donation:" + " " + totalDonation);
+
+            //GPA Calculator
+            //Calculate the user’s GPA on a 4.0 scale, where an A is equal to 4 points. 
+            //Ask the user how many of each grade was earned and calculate the GPA. Print the result.
+
+            //Console.WriteLine("Welcome to the GPA Calculator!");
+            //Console.WriteLine("Please enter the amount of each grade you've received this semester:");
+            //Console.WriteLine("A's:");
+            //double gradeA = int.Parse(Console.ReadLine());
+            //Console.WriteLine("B's:");
+            //double gradeB = int.Parse(Console.ReadLine());
+            //Console.WriteLine("C's:");
+            //double gradeC = int.Parse(Console.ReadLine());
+            //Console.WriteLine("D's:");
+            //double gradeD = int.Parse(Console.ReadLine());
+            //Console.WriteLine("F's:");
+            //double gradeF = int.Parse(Console.ReadLine());
+
+            //assigning the Grades a value
+            //double totalA = (gradeA * 4.0);
+            //double totalB = (gradeB * 3.0);
+            //double totalC = (gradeC * 2.0);
+            //double totalD = (gradeD * 1.0);
+            //double totalF = (gradeF * 0);
+
+            //printing GPA
+            //double gradeValues = (gradeA * 4.0 + gradeB * 3.0 + gradeC * 2.0 + gradeD * 1.0 + gradeF * 0);
+            //double totalClasses = (gradeA + gradeB + gradeC + gradeD + gradeF);
+            //double average = (gradeValues / totalClasses);
+            //Console.WriteLine("Your GPA is:" + " " + average);
+
+            
+
+
+
+
+
+
+
         }
     }
 }
